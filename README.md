@@ -1,0 +1,2 @@
+# Rabbits
+pip install tabulate
